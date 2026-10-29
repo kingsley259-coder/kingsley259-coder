@@ -13,6 +13,8 @@ I'm pursuing a **B.S. in Computer Science at Morgan State University**, with exp
 ### [Apocalypse: Last Street](https://github.com/kingsley259-coder/apocalypse-last-street)
 **Unity 6 · C# · 3D survival action**
 
+[![Apocalypse: Last Street gameplay](https://github.com/kingsley259-coder/apocalypse-last-street/blob/main/Apocalypse-Gameplay.png?raw=true)](https://github.com/kingsley259-coder/apocalypse-last-street)
+
 A Halloween-inspired survival game set on a zombie-filled city street. Progress through three checkpoint-based levels, dodge incoming missiles and rolling pumpkins, and survive a final boss encounter.
 
 - Player movement, sprinting, jumping, aiming, and rifle/laser weapon switching
